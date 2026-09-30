@@ -1,75 +1,227 @@
-<h1 align="center">Hi, I'm Muhilarasan T 👋</h1>
-<h3 align="center">Data Analyst & Machine Learning Engineer | Bengaluru, India</h3>
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/Muhilarasan-T"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:muhiltamilarasan2k5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhilarasan%20T&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer&descSize=20&descAlignY=58" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;Building+ML+systems+that+go+beyond+notebooks+%F0%9F%9A%80;Real-time+APIs+%7C+SHAP+Explainability+%7C+Leakage-safe+Pipelines;%F0%9F%8F%86+1st+Place+%E2%80%94+Data+Analytics+Hackathon%2C+NIT+Trichy" alt="Typing SVG" />
+</a>
 
-## 🚀 About Me
-I'm a Computer Science graduate who turns raw data into decisions and builds ML systems that go beyond notebooks, with real-time APIs, explainability, and leakage-safe pipelines.
+<br/>
 
-- 🏆 **1st Place**: Data Analytics Hackathon, NIT Trichy (March 2025)
-- 🎓 B.E. Computer Science, CGPA 8.6
-- 📜 NASSCOM Masters Program in Data Science (Gold, 96%)
-- 📊 Microsoft Certified Power BI Data Analyst Associate
-- 💼 Ex-Data Analytics Intern @ Techvolt Software
-- 📫 Open to Data Analyst / Data Scientist / ML roles
+<a href="https://linkedin.com/in/Muhilarasan-T"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:muhiltamilarasan2k5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Bengaluru-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Muhilarasan-T&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Roles-Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer-blueviolet?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👨‍💻 About Me
+
+```python
+class Muhilarasan:
+    role      = "Data Analyst & ML Engineer"
+    location  = "Bengaluru, India 📍"
+    education = "B.E. Computer Science (CGPA 8.6)"
+    strengths = ["Python", "SQL", "Machine Learning", "Power BI", "FastAPI"]
+    focus     = ["Fraud Detection", "Explainable AI", "Real-time Inference"]
+    fun_fact  = "I split data chronologically so my models never peek into the future 😉"
+```
+
+I'm a Computer Science graduate who loves turning messy data into clear insights, and building ML systems that are **deployed, explainable, and leakage-safe**, not just accurate in a notebook.
+
+<div align="center">
+
+| 🏆 Achievement | 🎓 Education | 💼 Experience |
+|:---:|:---:|:---:|
+| **1st Place** – Data Analytics Hackathon, **NIT Trichy** (Mar 2025) | B.E. CSE, Dhanalakshmi Srinivasan Engineering College (2022–2026) | Data Analytics Intern @ **Techvolt Software**, Coimbatore |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
 
-**Languages & Database**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,mysql,cpp,c,pandas,numpy,sklearn,matplotlib,fastapi,docker,git,github,powerbi,tableau&perline=7" />
 
-**Data & ML**
+<br/><br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat)
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-Explainability-ff0051?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KMeans-Clustering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-**Visualization & Deployment**
+</div>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<details>
+<summary><b>📂 Skills breakdown (click to expand)</b></summary>
+<br/>
 
-## 📌 Featured Projects
+| Area | Skills |
+|---|---|
+| **Data Analytics** | Data Cleaning, Preprocessing, EDA, Statistical Analysis |
+| **Visualization** | Power BI, Tableau, Matplotlib |
+| **Machine Learning** | Regression, Classification, Clustering, Feature Engineering, Model Evaluation |
+| **Deployment & MLOps** | FastAPI, REST APIs, Docker, ML Pipelines, Model Versioning, Basic CI/CD |
+| **Database & Tools** | MySQL, Git, GitHub, Jupyter Notebook |
 
-| Project | What it does | Highlights |
-|---|---|---|
-| [**RED FLAG**](https://github.com/Muhilarasan-T/REPO_NAME) | End-to-end transaction fraud detection | 1.85M transactions, **0.91 PR-AUC**, chronological split, FastAPI + SHAP |
-| [**ARAN**](https://github.com/Muhilarasan-T/REPO_NAME) | Real-time API bot detection & mitigation | XGBoost, 13 behavioral features, live inference with SHAP explanations |
-| [**HABITA**](https://github.com/Muhilarasan-T/REPO_NAME) | Housing recommendation for Bangalore | 55 localities, rent **R² 0.94**, commute **R² 0.84**, KMeans clustering |
+</details>
 
+<br/>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚩 RED FLAG
+**Transaction Anomaly & Fraud Detection**
+
+End-to-end fraud detection platform on **1.85M transactions** with a strict chronological split to prevent temporal leakage.
+
+- 🎯 **0.91 PR-AUC** on unseen test set
+- 🧠 26 point-in-time-safe engineered features
+- ⚙️ Optimized threshold to cut false-positive alerts
+- ⚡ FastAPI real-time + batch scoring
+- 🔍 SHAP-based explainability
+
+`Python` `XGBoost` `FastAPI` `SHAP` `Pandas`
+
+[**🔗 View Repository**](https://github.com/Muhilarasan-T/RED-FLAG)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 ARAN
+**Real-Time API Bot Detection & Mitigation**
+
+Detects automated bot traffic vs legitimate users from API session behavior.
+
+- 📊 5,000 sessions, 13 behavioral features
+- 🔧 Cross-validation + hyperparameter tuning
+- 🛡️ Leakage-aware preprocessing
+- ⚡ FastAPI real-time inference
+- 🔍 SHAP explanations + automated API tests
+
+`Python` `XGBoost` `FastAPI` `SHAP` `Scikit-learn`
+
+[**🔗 View Repository**](https://github.com/Muhilarasan-T/ARAN)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ HABITA
+**Personalized Urban Housing Recommendation**
+
+Location intelligence for **55 Bangalore localities**, combining prediction and clustering into personalized recommendations.
+
+- 💰 Rent prediction **R² = 0.94**
+- 🚗 Commute prediction **R² = 0.84**
+- 🗺️ KMeans clustering of localities by lifestyle
+- 🎯 Personalized recommendation engine
+
+`Python` `HistGradientBoosting` `KMeans` `Pandas`
+
+[**🔗 View Repository**](https://github.com/Muhilarasan-T/HABITA)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 📈 More Coming Soon
+
+Currently building more **Power BI dashboards** and **end-to-end ML projects**.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Work%20in%20Progress-🚧-yellow?style=for-the-badge"/>
+
+<br/><br/>
+
+[**📂 See all repositories**](https://github.com/Muhilarasan-T?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ CERTIFICATIONS ═══════════════ -->
+## 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NASSCOM-Masters%20in%20Data%20Science%20(Gold%2C%2096%25)-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst%20Associate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Job%20Simulation-86BC25?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coursera-SQL%20for%20Data%20Science-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Newton%20School-SQL%20Basic-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HP%20LIFE-Data%20Science%20%26%20Analytics-0096D6?style=for-the-badge&logo=hp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udemy-Python%20for%20Data%20Science-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhilarasan-T&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhilarasan-T&layout=compact&hide_border=true" height="150"/>
-</p>
+<div align="center">
 
----
-<p align="center">⭐ Open to collaborations and opportunities. Let's connect!</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhilarasan-T&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhilarasan-T&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<!--
-**Muhilarasan-T/Muhilarasan-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<img src="https://streak-stats.demolab.com?user=Muhilarasan-T&theme=tokyonight&hide_border=true&background=0d1117" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhilarasan-T&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ CURRENTLY ═══════════════ -->
+## 🌱 Currently
+
+- 🔭 Building end-to-end ML projects with deployment and explainability
+- 📚 Deepening skills in **MLOps**, **Docker**, and **CI/CD**
+- 📊 Creating more **Power BI dashboards** for business insights
+- 💬 Ask me about: **Fraud detection, XGBoost, SHAP, FastAPI, Power BI, SQL**
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🤝 Let's Connect
+
+I'm actively looking for **Data Analyst / Data Scientist / ML Engineer** opportunities. If you have a role, a project, or just want to talk data, reach out!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/Muhilarasan-T"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:muhiltamilarasan2k5@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+⭐ *If you like my work, give my repos a star!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
+
+</div>
